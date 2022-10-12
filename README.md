@@ -1,1 +1,7 @@
 
+git init
+git status
+git add .
+git commit -m 'add commit message'
+git remote add origin git@github.com:Shahiba524/dockerapplication.git
+git push -u origin main
